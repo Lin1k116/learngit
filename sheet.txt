@@ -1,0 +1,8 @@
+git log --pretty==oneline
+git reset --hard HEAD^ //HEAD~<number>
+git reset --hard <commit id>
+git reflog
+
+
+git checkout -- <file>
+git reset HEAD <file>

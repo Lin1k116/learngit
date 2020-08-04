@@ -6,3 +6,8 @@ git reflog
 
 git checkout -- <file>
 git reset HEAD <file>
+
+git remote add origin git@github.com:lin1k116/learngit.git
+git push -u origin master
+git push origin master
+
